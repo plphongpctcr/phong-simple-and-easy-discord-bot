@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name='simple-and-easy-discord-bot',
     version='0.1.1',
-    description='simple discord bot by dora-0',
-    author='dora-0',
+    description='simple discord bot by plphongpctcr',
+    author='plphongpctcr',
     author_email='55905774+dora-0@users.noreply.github.com',
     url='https://github.com/plphongpctcr/phong-simple-and-easy-discord-bot',
     install_requires=['asyncio', 'websockets', 'aiohttp', 'discord',],
