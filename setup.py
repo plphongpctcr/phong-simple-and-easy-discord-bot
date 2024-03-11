@@ -6,7 +6,7 @@ setup(
     description='simple discord bot by dora-0',
     author='dora-0',
     author_email='55905774+dora-0@users.noreply.github.com',
-    url='https://github.com/dora-0/simple-and-easy-discord-bot',
+    url='https://github.com/plphongpctcr/phong-simple-and-easy-discord-bot',
     install_requires=['asyncio', 'websockets', 'aiohttp', 'discord',],
     packages=find_packages(exclude=[]),
     keywords=['dora-0', 'discord', 'python tutorial', 'pypi'],
