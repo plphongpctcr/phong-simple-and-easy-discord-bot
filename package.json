@@ -1,0 +1,16 @@
+{
+  "name": "phong-simple-and-easy-discord-bot",
+  "version": "1.0.0",
+  "description": "simple-and-easy-discord-bot",
+  "main": "main.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plphongpctcr/phong-simple-and-easy-discord-bot"
+  },
+  "keywords": ["simple","easy", "discord","bot"],
+  "author": "plphongpctcr",
+  "license": "ISC"
+}
