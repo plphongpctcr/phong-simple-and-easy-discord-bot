@@ -1,6 +1,6 @@
 {
   "name": "phong-simple-and-easy-discord-bot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "simple-and-easy-discord-bot",
   "main": "main.py",
   "scripts": {
@@ -9,6 +9,15 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/plphongpctcr/phong-simple-and-easy-discord-bot"
+  },
+  "dependencies": {
+        "underscore": "1.7.0",
+        "underscore.string": "3.0.3",
+        "porter-stemmer": "0.9.1"
+    },
+    "devDependencies": {
+        "vows": "0.8.1",
+        "jshint": "2.6.0"
   },
   "keywords": ["simple","easy", "discord","bot"],
   "author": "plphongpctcr",
